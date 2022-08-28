@@ -1,14 +1,21 @@
 - 👋 Hi, I’m `mohamed kasim` @mohmedkasim
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohmedkasim&show_icons=true&count_private=true&hide=contribs,prs&theme=dracula)
+<a href="https://github.com/thepiyushmalhotra">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohmedkasim&theme=dracula&show_icons=true&count_private=true&hide=contribs,prs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmedkasim&theme=dracula&layout=compact&count_private=true" />
+</a>
+<br/>
+<br/>
+<br/>
 
-- 👀 I’m interested in programming, learn nature languages and play games
-- 🌱 I’m currently working as UI Designer and Programmer
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohmedkasim&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-- 📱 I love design and you can find me here [dribbble](https://dribbble.com/alsanussi)
-- 📫 How to reach me [instagram](https://www.instagram.com/medo.pro97/)
+## ⚡ About Me
+- 🌆 I'm from Libya
+- 💻 My Job is Software Engineering 
+- 👀 I’m interested in programming, learn nature languages, play games, sport, read, design, art and new technologies ♥
+- 🌱 I’m currently working as ```UI|UX Designer & UI Mobile Programmer```
+- 🤝🏼 I love teamwork
+- 📱  I love design, you can find my work here [dribbble](https://dribbble.com/alsanussi)
+- 📫 Contact me in [instagram](https://www.instagram.com/medo.pro97/) , I will be happy ☺
 
 <br/>
 
@@ -49,8 +56,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
 </p>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+<br/> 
 
+## 🤞🏼 My Vesion
+
+There is always a solution in this world to live happier and healty when we accept the effort to make it true ♥ stay positive 
 <!---
 mohmedkasim/mohmedkasim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
