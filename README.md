@@ -1,4 +1,4 @@
-- 👋 Hi, I’m `mohamed kasim` @mohmedkasim
+- 👋🏼 Hi, I’m `Mohamed Kasim` @mohmedkasim or Medopro
 
 <a href="https://github.com/thepiyushmalhotra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohmedkasim&theme=dracula&show_icons=true&count_private=true&hide=contribs,prs" />
@@ -58,7 +58,7 @@
 
 <br/> 
 
-## 🤞🏼 My Vesion
+## 🤞🏼  My Vesion
 
 There is always a solution in this world to live happier and healty when we accept the effort to make it true ♥ stay positive 
 <!---
