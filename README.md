@@ -1,4 +1,4 @@
-- 👋🏼 Hi, I’m `Mohamed Kasim` @mohmedkasim or Medopro
+# 👋🏼 Hi, I’m `Mohamed Kasim` | `Medopro`
 
 <a href="https://github.com/thepiyushmalhotra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohmedkasim&theme=dracula&show_icons=true&count_private=true&hide=contribs,prs" />
@@ -6,15 +6,15 @@
 </a>
 <br/>
 <br/>
-<br/>
 
 ## ⚡ About Me
 - 🌆 I'm from Libya
-- 💻 My Job is Software Engineering 
+- 💻 My Job Title is ```Software Engineering``` 
 - 👀 I’m interested in programming, learn nature languages, play games, sport, read, design, art and new technologies ♥
 - 🌱 I’m currently working as ```UI|UX Designer & UI Mobile Programmer```
 - 🤝🏼 I love teamwork
 - 📱  I love design, you can find my work here [dribbble](https://dribbble.com/alsanussi)
+- 👨🏼‍💻 I love share my work time to time, follow me here if you want to learn
 - 📫 Contact me in [instagram](https://www.instagram.com/medo.pro97/) , I will be happy ☺
 
 <br/>
@@ -58,7 +58,7 @@
 
 <br/> 
 
-## 🤞🏼  My Vesion
+## 🤞🏼 &nbsp;My Vesion
 
 There is always a solution in this world to live happier and healty when we accept the effort to make it true ♥ stay positive 
 <!---
