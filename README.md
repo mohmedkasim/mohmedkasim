@@ -19,7 +19,7 @@
 - 🤝🏼 I love teamwork
 - 📱  I love design, you can find my work here [dribbble](https://dribbble.com/alsanussi)
 - 👨🏼‍💻 I love share my work time to time, follow me here if you want to learn
-- 📫 Contact me in [instagram](https://www.instagram.com/medo.pro97/) , I will be happy ☺
+- 📫 Contact me in [instagram](https://www.instagram.com/medo.pro97/)
 
 ![](https://komarev.com/ghpvc/?username=mohmedkasim&style=flat-square)
 
@@ -66,9 +66,9 @@
 
 <br/> 
 
-## 🤞🏼 &nbsp;My Vesion
 
-There is always a solution in this world to live happier and healty when we accept the effort to make it true ♥ stay positive 
+
+
 <!---
 mohmedkasim/mohmedkasim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
