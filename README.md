@@ -9,6 +9,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmedkasim&theme=dracula&layout=compact&count_private=true" />
 </a>
 <br/>
+
+![github graph](https://github-readme-activity-graph.cyclic.app/graph?username=mohmedkasim&theme=dracula&count_private=true)
+<br/>
 <br/>
 
 ## ⚡ About Me
