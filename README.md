@@ -3,16 +3,16 @@
 <p align="left">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World+from+Github!&center=true&width=360&height=30">
 </p>
-<br/>
-<a href="https://github.com/thepiyushmalhotra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohmedkasim&theme=dracula&show_icons=true&count_private=true&hide=contribs,prs" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmedkasim&theme=dracula&layout=compact&count_private=true" />
-</a>
-<br/>
 
-![github graph](https://github-readme-activity-graph.cyclic.app/graph?username=mohmedkasim&theme=dracula&count_private=true)
-<br/>
-<br/>
+[Libya Rank](https://user-badge.committers.top/libya_private/mohmedkasim)
+
+![committers.top badge](https://user-badge.committers.top/libya_private/mohmedkasim.svg)
+
+
+<a href="https://github.com/mohmedkasim/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohmedkasim&repo=github-readme-stats&theme=buefy" />
+</a>
+
 
 ## ⚡ About Me
 - 🌆 I'm from Libya
