@@ -4,14 +4,12 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World+from+Github!&center=true&width=360&height=30">
 </p>
 
-[Libya Rank](https://user-badge.committers.top/libya_private/mohmedkasim)
-
-![committers.top badge](https://user-badge.committers.top/libya_private/mohmedkasim.svg)
 
 
-<a href="https://github.com/mohmedkasim/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohmedkasim&repo=github-readme-stats&theme=buefy" />
-</a>
+![committers.top badge](https://user-badge.committers.top/libya_private/mohmedkasim.svg) ![](https://komarev.com/ghpvc/?username=mohmedkasim&style=flat-square)
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=mohmedkasim&show_icons=true&theme=gotham" alt="mohamedkasim" />
 
 
 ## ⚡ About Me
@@ -24,7 +22,7 @@
 - 👨🏼‍💻 I love share my work time to time, follow me here if you want to learn
 - 📫 Contact me in [instagram](https://www.instagram.com/medo.pro97/)
 
-![](https://komarev.com/ghpvc/?username=mohmedkasim&style=flat-square)
+
 
 <br/>
 
