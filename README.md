@@ -11,10 +11,14 @@
 <h4 align="left">
     I'm a Software Engineer from Libya, having 4+ years of software development experience. 
     <br><br>
-    ➮ I prefer GetX pattern, BLoC pattern, for the folder & file structure. <br>
-    ➮ In addition to that, I use Provider, or GetX package for app state management. <br>
-    ➮ about back-end services, I completely rely on RESTful API.  <br>
-    ➮ Depending on the project requirement, I use `shared_preferences`, `get_storage`. <br><br>
+    ➮ Mobile App: I prefer Flutter with state management GetX for the folder & file structure, app state management. <br>
+    ➮ Desktop App: I learned C# and C++ and still learning more about it <br>
+    ➮ Backend Development: I used Laravel, Python Django, PHP and currently learning about NodeJS <br>
+    ➮ Website Development: I am learning about Js and ReactJs <br>
+    ➮ MicroController Developement: My pasion is to keep learn and build system using Arduino and Raspberry Pi<br>
+    ➮ Current Interest of (2025): Read more about Data Analysis, Database Adminstration, Graphic Design<br>
+    ➮ My Fav work and enjoy doing it is User Interface Design by following my inspirations <br>
+    ➮ My Fav flutter Packages I use `getX`, `get_storage`, `easy_localization`, `iconsax`. <br><br>
     ☞ Connect with me: <a href = "https://www.linkedin.com/in/mohamed-s-kasim-5a128b189/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&fbclid=IwY2xjawFT3r1leHRuA2FlbQIxMAABHWsUD6ZAn9CJdUq9VosSY072fauFf3HK_kwXt5xBNMwt5Wtvg0dR8kcNrg_aem_acIOQGybt5Mps73_vNGQCw">LinkedIn</a> ☜ <br>
      <br>
 </h4>
@@ -25,14 +29,14 @@
 <img align="right" src="https://www.mashfrog.com/sites/default/files/2023-02/1920x1080_cover_B%20%281%29.png" height="260"> </img> <br><br>
 
 - 💻 : My Job Title is ```Software Engineering```
+- 🎁 : My Hobbies for (2025) are: learning German, fast typing, reading books, running, painting 
 - 👀 : I’m interested in programming, learn nature languages, play games, sport, read, design, art and new technologies ♥
 - 🌱 : I’m currently working as ```UI|UX Designer & UI Mobile Programmer```
 - 🤝🏼 : I love teamwork
 - 📱  : I love design, you can find my work here [dribbble](https://dribbble.com/alsanussi)
-- 👨🏼‍💻 : I love share my work time to time, follow me here if you want to learn
-
-
-- 🔭  : I’m currently searching for new **Projects**
+- 👨🏼‍💻 : I love share my work time to time, follow me here if you like sharing
+- ⌨  : I am practicing in fast typing [MonkeyType](https://monkeytype.com/profile/medopro)
+- 🔭  : I’m currently work in **Amazing Projects**
 
 - 🌱  : I’m currently learning **[React](https://react.dev/)**, **[Rive](https://rive.app/)**
 
