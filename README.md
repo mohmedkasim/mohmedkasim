@@ -8,7 +8,6 @@
 </p>
 
 <img align="right" src="https://i.imgur.com/6AgVgVw.png" height="160"> </img>
-<h4 align="left">
     I'm a Software Engineer from Libya, having 4+ years of software development experience. 
     <br><br>
     ➮ Mobile App: I prefer Flutter with state management GetX for the folder & file structure, app state management. <br>
@@ -21,13 +20,11 @@
     ➮ My Fav flutter Packages I use `getX`, `get_storage`, `easy_localization`, `iconsax`. <br><br>
     ☞ Connect with me: <a href = "https://www.linkedin.com/in/mohamed-s-kasim-5a128b189/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&fbclid=IwY2xjawFT3r1leHRuA2FlbQIxMAABHWsUD6ZAn9CJdUq9VosSY072fauFf3HK_kwXt5xBNMwt5Wtvg0dR8kcNrg_aem_acIOQGybt5Mps73_vNGQCw">LinkedIn</a> ☜ <br>
      <br>
-</h4>
-    
+<img align="right" src="https://img.freepik.com/free-photo/back-view-man-sitting-front-computer-monitor-looking-screen_1142-57790.jpg?uid=P22618739&ga=GA1.1.753955743.1731702716&semt=ais_hybrid" height="500"> </img> <br><br>
+     
 ## ⚡ About Me
-
 <!-- <img align="right" src="https://www.vegamoontech.com/wp-content/uploads/2020/03/web-design.gif" height="270"> </img> -->
-<img align="right" src="https://cdn.prod.website-files.com/6344c9cef89d6f2270a38908/64d6bd51ab17a00828b644bf_header.webp" height="260"> </img> <br><br>
-
+ 
 - 💻 : My Job Title is ```Software Engineering```
 - 🎁 : My Hobbies for (2025) are: learning German, fast typing, reading books, running, painting 
 - 👀 : I’m interested in programming, learn nature languages, play games, sport, read, design, art and new technologies ♥
