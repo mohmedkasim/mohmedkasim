@@ -26,7 +26,7 @@
 ## ⚡ About Me
 
 <!-- <img align="right" src="https://www.vegamoontech.com/wp-content/uploads/2020/03/web-design.gif" height="270"> </img> -->
-<img align="right" src="https://www.mashfrog.com/sites/default/files/2023-02/1920x1080_cover_B%20%281%29.png" height="260"> </img> <br><br>
+<img align="right" src="https://cdn.prod.website-files.com/6344c9cef89d6f2270a38908/64d6bd51ab17a00828b644bf_header.webp" height="260"> </img> <br><br>
 
 - 💻 : My Job Title is ```Software Engineering```
 - 🎁 : My Hobbies for (2025) are: learning German, fast typing, reading books, running, painting 
